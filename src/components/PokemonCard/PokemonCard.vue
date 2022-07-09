@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import "../PokemonCard/PokemonCard.css";
+import "../PokemonCard/PokemonCard.scss";
 export default {
   name: "Pokemon",
   props: {

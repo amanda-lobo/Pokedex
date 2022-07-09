@@ -10,14 +10,14 @@ $backgroundHome: #ededed;
   .body {
     width: 100%;
     min-height: 100vh;
-    background-color: $background;
+    background-color: $backgroundHome;
     display: flex;
     flex-direction: column;
     justify-content: start;
   }
   
   .listPokemon {
-    min-width: 100vw;
+    min-width: 98vw;
     // min-height: 100vh;
     display: flex;
     flex-direction: row;

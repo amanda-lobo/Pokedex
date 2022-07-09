@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import '../SearchBar/SearchBar.css';
+import '../SearchBar/SearchBar.scss';
 export default {
   name: "SearchBar",
   data() {

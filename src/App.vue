@@ -4,7 +4,7 @@
 import PokemonCard from "./components/PokemonCard/PokemonCard.vue";
 import SearchBar from "./components/SearchBar/SearchBar.vue";
 import api from "./services/api";
-import "./AppStyle/App.css";
+import "./AppStyle/App.scss";
 
 export default {
   name: "Pokedex",
