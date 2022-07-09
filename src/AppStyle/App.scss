@@ -1,0 +1,26 @@
+$backgroundHome: #ededed; 
+
+* {
+    border: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: $background;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+  }
+  
+  .listPokemon {
+    min-width: 100vw;
+    // min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+  }
